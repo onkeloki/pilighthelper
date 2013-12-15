@@ -9,6 +9,7 @@ or trigger of your pilight configurations by php.
 the possibility to add a delay is also included.
 
 **Example Usage**
+
 	<?php
 	include "Pilighthelper.php";
 	$plh = new Pilighthelper();
