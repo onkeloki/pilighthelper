@@ -21,10 +21,13 @@ This will power on "YOUR_DEICE"  on "YOUR_LOCATION"
 and will power off it in 5 seconds.
 
 depending on your configuration you might need to add
+
 	ignore_user_abort(true);
 	set_time_limit(0);
+	
 to your php file
 
 **Attention**
 you definitley need to add www-data to your **/etc/sudoers** file
+
     www-data ALL = NOPASSWD: ALL
