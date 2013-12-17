@@ -1,7 +1,7 @@
 Pilighthelper
 =============
 
-php class helps you executing pilight-control from Pilight for your raspberrypi
+php class helps you executing pilight-control from pilight for your raspberrypi
 
 
 this class provides two functions to trigger on 
