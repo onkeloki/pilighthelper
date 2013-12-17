@@ -1,6 +1,6 @@
 <?php
 
-class  Pilighthelper
+class  pilighthelper
 {
     /**
      * @param $location
