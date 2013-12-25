@@ -1,4 +1,4 @@
-Pilighthelper
+pilighthelper
 =============
 
 php class helps you executing pilight-control from Pilight for your raspberrypi
@@ -11,8 +11,8 @@ the possibility to add a delay is also included.
 **Example Usage**
 
 	<?php
-	include "Pilighthelper.php";
-	$plh = new Pilighthelper();
+	include "pilighthelper.php";
+	$plh = new pilighthelper();
 	$plh->turnOn("YOUR_LOCATION","YOUR_DEVICE");
 	$plh->turnOff("YOUR_LOCATION","YOUR_DEVICE",5);
 	?>
